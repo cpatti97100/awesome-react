@@ -396,6 +396,7 @@ A collection of awesome things regarding the React ecosystem.
 - [hookstate](https://github.com/avkonst/hookstate) - The simple but very powerful and incredibly fast state management for React that is based on hooks
 - [effector](https://github.com/zerobias/effector) - Fast and powerful reactive state manager
 - [reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management
+- [jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React
 
 ##### React AR and VR
 
